@@ -1,6 +1,6 @@
 # Button Component Vue
 
-> I made a simple button for your compinent add it to your project.
+> I made a simple button for your component add it to your project.
 
 ## Usage
 
