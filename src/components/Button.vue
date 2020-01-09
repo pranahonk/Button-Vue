@@ -1,4 +1,3 @@
-
 <style>
 [type="button"],
 [type="reset"],
@@ -80,6 +79,23 @@ select {
   color: #fff;
   background-color: #5a6268;
   border-color: #545b62;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  color: #fff;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.btn-outline-success {
+  color: #28a745;
+  border-color: #28a745;
 }
 </style>
 
